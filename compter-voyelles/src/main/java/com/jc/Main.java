@@ -18,7 +18,7 @@ public class Main {
         if(str ==null) return null;
 
         Map<String,Integer> result = new HashMap<>();
-
+       //Initialiser du compteur à zéro
         result.put("voyelles",0);
         result.put("consonnes",0);
         //Définir les voyelles miniscule et majuscule
