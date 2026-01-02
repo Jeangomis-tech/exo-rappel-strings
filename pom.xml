@@ -18,6 +18,7 @@
         <module>array-rotation</module>
         <module>two-sum</module>
         <module>max-sub-array</module>
+        <module>flat-sorted-array</module>
     </modules>
 
     <properties>
