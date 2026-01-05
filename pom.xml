@@ -20,6 +20,7 @@
         <module>max-sub-array</module>
         <module>flat-sorted-array</module>
         <module>compter-frequence</module>
+        <module>compter-frequence/supprmer-doublons</module>
     </modules>
 
     <properties>
