@@ -19,6 +19,7 @@
         <module>two-sum</module>
         <module>max-sub-array</module>
         <module>flat-sorted-array</module>
+        <module>compter-frequence</module>
     </modules>
 
     <properties>
