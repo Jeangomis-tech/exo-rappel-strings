@@ -21,6 +21,7 @@
         <module>flat-sorted-array</module>
         <module>compter-frequence</module>
         <module>compter-frequence/supprmer-doublons</module>
+        <module>parenthesesEquilibrees</module>
     </modules>
 
     <properties>
