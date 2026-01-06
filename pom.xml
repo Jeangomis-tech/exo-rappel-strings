@@ -15,13 +15,15 @@
         <module>PREMIERE-LETTRE-EN-MAJUSCULE</module>
         <module>compter-voyelles</module>
         <module>trouver-doublons</module>
-        <module>array-rotation</module>
+<!--        <module>array-rotation</module>-->
         <module>two-sum</module>
         <module>max-sub-array</module>
         <module>flat-sorted-array</module>
         <module>compter-frequence</module>
         <module>compter-frequence/supprmer-doublons</module>
         <module>parenthesesEquilibrees</module>
+        <module>supprimer-doublons</module>
+
     </modules>
 
     <properties>

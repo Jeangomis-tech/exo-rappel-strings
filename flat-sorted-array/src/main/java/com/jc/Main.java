@@ -23,7 +23,8 @@ public class Main {
     // Avec flatMap
     public static int[] fusionner1(int[] t1, int[] t2) {
         return Stream.of(t1, t2)
-                .flatMapToInt(Arrays::stream)
+//                .flatMapToInt(Arrays::stream)
+                .flatMapToInt(IntStream::of)
                 .sorted()
                 .toArray();
     }
